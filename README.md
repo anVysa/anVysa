@@ -1,4 +1,10 @@
-## Hi there 👋
+## Привет, я Аня 👋 на этом все
+
+<p align="center">
+
+  <img width="300" src="Орангутанг.gif">
+
+</p>
 
 <!--
 **anVysa/anVysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
