@@ -8,9 +8,9 @@
 
 
 ## Сертификаты
-| Python                                                   |СБЕР Университет                                                  |
-| ---------------------------------------------------------| -----------------------------------------------------------------|
-| ![Python](certificates/PythonStepik.png 'Python Stepik') | ![SBER](certificates/СБЕР_Наука_о_данных.png 'СБЕР Университет') |
+|СБЕР Университет |SAMSUNG AI |HUAWEI AI | Python Stepik |
+|-----------------|-----------|----------|---------------|
+|<img src="certificates/СБЕР_Наука_о_данных.png" width="250">|<img src="certificates/SAMSUNG_AI_RUS.png" width="200">|<img src="certificates/HUAWEI_AI.png" width="250">|<img src="certificates/PythonStepik.png" width="250">|
 
 
 
