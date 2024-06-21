@@ -1,10 +1,18 @@
-## Привет, я Аня 👋 на этом все
+## Привет, я Аня 👋
 
 <p align="center">
 
   <img width="300" src="Орангутанг.gif">
 
 </p>
+
+
+## Сертификаты
+| Python                                           |SBER                                          |
+| -------------------------------------------------| ---------------------------------------------|
+| ![Python](certificates/PythonStepik.png 'Python Stepik') | ![SBER](certificates/СБЕР Наука о данных.png 'СБЕР Университет') |
+
+
 
 <!--
 **anVysa/anVysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
