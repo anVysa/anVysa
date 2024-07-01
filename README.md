@@ -1,11 +1,11 @@
 ## Привет, я Аня 👋
-Около 3 лет работала ассистентом кафедры прикладной математики, вела дисциплины, посвященные анализу данных, машинному обучению, статистике 💼. Выбранное направление подготовки в вузе позволило мне определиться с желаемой профессией. Меня очень увлекает процесс решения задач, связанных с обработкой, анализом различных видов данных📈, а также создание моделей машинного обучения🚗.
+Около 3 лет работала ассистентом кафедры прикладной математики, вела дисциплины, посвященные анализу данных, машинному обучению, статистике. Выбранное направление подготовки в вузе позволило мне определиться с желаемой профессией. Меня очень увлекает процесс решения задач, связанных с обработкой, анализом различных видов данных, а также создание моделей машинного обучения🚗.
 
 Решила сменить профессию в связи с нехваткой реальных проектов по анализу данных и машинному обучению, которые оказывали бы положительное влияние на развитие организации, а также в связи с отсутствием отклика о результатах работы😕.  
 
-Даже если что-то кажется сложным и недостижимым, то достаточно разбить этот процесс на простые составляющие и начать делать, что позволяло мне решить каждую поставленную задачу🙂.
+Даже если что-то кажется сложным и недостижимым, то достаточно разбить этот процесс на простые составляющие и начать делать, что позволяло мне решить каждую поставленную задачу.
 
-В свободное время занимаюсь спортом🏊‍♀️🏇, иногда рисую🎨, чуть-чуть играю в VR🎮.
+В свободное время занимаюсь спортом🏊‍♀, иногда рисую, чуть-чуть играю в VR и ПК.
 
 <p align="center">
 
@@ -14,10 +14,40 @@
 </p>
 
 ## Стек
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+#### Базы данных: ClickHouse, NoSQL (Apache HBase).
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+
+#### Инструменты: Jupyter Lab, Google Colab.
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### Библиотеки: XGBoost, CatBoost, LightGBM, Orbit, CausalImpact.
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### Другое: ETL (Sqoop, Flume, NiFi, Pig), Redash, Superset, Airflow, Loginom.
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
 
 ## Задачи
-
+* Статистический анализ данных
+* Предобработка данных
+* Построение моделей машинного обучения
+* Автоматизация отчетности
+* Построение дашбордов
+* точно что то еще 
 
 ## Сертификаты
 |СБЕР Университет |SAMSUNG AI |HUAWEI AI | Python Stepik |
