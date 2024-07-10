@@ -40,14 +40,13 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
-
 ## Задачи
 * Статистический анализ данных
 * Предобработка данных
 * Построение моделей машинного обучения
 * Автоматизация отчетности
 * Построение дашбордов
-* точно что то еще 
+* Проведение А/Б тестов
 
 ## Сертификаты
 |СБЕР Университет |SAMSUNG AI |HUAWEI AI | Python Stepik |
