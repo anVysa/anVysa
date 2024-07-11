@@ -49,9 +49,10 @@
 * Проведение А/Б тестов
 
 ## Сертификаты
-|СБЕР Университет |SAMSUNG AI |HUAWEI AI | Python Stepik |
-|-----------------|-----------|----------|---------------|
-|<img src="certificates/СБЕР_Наука_о_данных.png" width="250">|<img src="certificates/SAMSUNG_AI_RUS.png" width="200">|<img src="certificates/HUAWEI_AI.png" width="250">|<img src="certificates/PythonStepik.png" width="250">|
+KarpovCourses |СБЕР Университет |SAMSUNG AI |HUAWEI AI | Python Stepik |
+|-------------|-----------------|-----------|----------|---------------|
+|<img src="certificates/СБЕР_Наука_о_данных.png" width="250">|<img src="certificates/SAMSUNG_AI_RUS.png" width="200">|<img src="certificates/HUAWEI_AI.png" width="250">|<img src="certificates/HUAWEI_AI.png" width="250">
+|<img src="certificates/PythonStepik.png" width="250">|
 
 ## Статьи
 * [Детекция жестов с помощью YOLO](https://www.elibrary.ru/item.asp?id=49955574) / А. Я. Скляр, А. А. Высоцкая, А. А. Горячев
