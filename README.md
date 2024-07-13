@@ -23,13 +23,13 @@
 ![Static Badge](https://img.shields.io/badge/ClickHouse-red?style=for-the-badge&logo=ClickHouse)
 ![Static Badge](https://img.shields.io/badge/HBase-black?style=for-the-badge&logo=Apache%20HBase)
 
-#### Инструменты
+### Инструменты
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Colab-orange?style=for-the-badge&logo=GoogleColab)
 
-#### Библиотеки
+### Библиотеки
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -45,7 +45,7 @@
 ![Static Badge](https://img.shields.io/badge/CausalImpact-green?style=for-the-badge&logo=CausalImpact)
 
 
-#### Другое
+### Другое
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Sqoop-purple?style=for-the-badge&logo=Apache%20Sqoop)
 ![Static Badge](https://img.shields.io/badge/Flume-purple?style=for-the-badge&logo=Apache%20Flume)
