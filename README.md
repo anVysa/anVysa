@@ -15,18 +15,21 @@
 
 ## Стек
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-#### Базы данных: ClickHouse, NoSQL (Apache HBase).
+#### Базы данных
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ClickHouse-red?style=for-the-badge&logo=ClickHouse)
+![Static Badge](https://img.shields.io/badge/HBase-black?style=for-the-badge&logo=Apache%20HBase)
 
-#### Инструменты: Google Colab.
+#### Инструменты
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Colab-orange?style=for-the-badge&logo=GoogleColab)
 
-#### Библиотеки: XGBoost, CatBoost, LightGBM, Orbit, CausalImpact.
+#### Библиотеки
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -35,10 +38,24 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Static Badge](https://img.shields.io/badge/XGBoost-blue?style=for-the-badge&logo=XGBoost)
+![Static Badge](https://img.shields.io/badge/CatBoost-yellow?style=for-the-badge&logo=CatBoost)
+![Static Badge](https://img.shields.io/badge/LightGBM-green?style=for-the-badge&logo=LightGBM)
+![Static Badge](https://img.shields.io/badge/Orbit-black?style=for-the-badge&logo=Orbit)
+![Static Badge](https://img.shields.io/badge/CausalImpact-green?style=for-the-badge&logo=CausalImpact)
 
-#### Другое: ETL (Sqoop, Flume, NiFi, Pig), Redash, Superset, Airflow, Loginom.
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+
+#### Другое
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Sqoop-purple?style=for-the-badge&logo=Apache%20Sqoop)
+![Static Badge](https://img.shields.io/badge/Flume-purple?style=for-the-badge&logo=Apache%20Flume)
+![Static Badge](https://img.shields.io/badge/NiFi-lightblue?style=for-the-badge&logo=Apache%20NiFi)
+![Static Badge](https://img.shields.io/badge/Apache_Pig-lightpink?style=for-the-badge&logo=Apache%20Pig)
+![Static Badge](https://img.shields.io/badge/Redash-white?style=for-the-badge&logo=Redash)
+![Static Badge](https://img.shields.io/badge/Superset-0B2C35?style=for-the-badge&logo=Apache%20Superset)
+![Static Badge](https://img.shields.io/badge/Airflow-red?style=for-the-badge&logo=Apache%20Airflow)
+![Static Badge](https://img.shields.io/badge/Loginom-A23938?style=for-the-badge&logo=Loginom)
+
 
 ## Задачи
 * Статистический анализ данных
